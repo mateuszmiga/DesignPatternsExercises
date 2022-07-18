@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "DesignPatternsExercises\AdapterPattern.csproj", "{B47D55D1-11B3-4E46-A31F-0F4F68D9F23A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{E0919748-000B-40A6-B572-F1D112F7FEA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B47D55D1-11B3-4E46-A31F-0F4F68D9F23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B47D55D1-11B3-4E46-A31F-0F4F68D9F23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B47D55D1-11B3-4E46-A31F-0F4F68D9F23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0919748-000B-40A6-B572-F1D112F7FEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0919748-000B-40A6-B572-F1D112F7FEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0919748-000B-40A6-B572-F1D112F7FEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0919748-000B-40A6-B572-F1D112F7FEA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
