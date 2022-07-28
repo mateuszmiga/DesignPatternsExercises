@@ -21,7 +21,14 @@ namespace AbstractFactory
 
             bigTruck.DeliverLoad();
 
+            //creating family of products:
+
+            VehicleFamily vehicleFamily = new VehicleFamily(smallFactory);
+            vehicleFamily.GetFamilyMembersType();
+
             Console.ReadKey();
         }
+
+        
     }
 }
